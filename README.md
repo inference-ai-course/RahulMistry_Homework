@@ -21,7 +21,7 @@
 
 ![Puppet](Screenshots/DesktopFile.png)
 
-![Desk][Screenshots/TextFileDesktop.png]
+![Desk](Screenshots/TextFileDesktop.png)
 
 ### 5) Sequential Thinking
 
@@ -47,4 +47,3 @@
 ### Langchain
 
 ![Seq](Screenshots/langchainchat.png)
-![Seq](Screenshots/langchainollama.png)
