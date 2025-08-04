@@ -1,6 +1,6 @@
-# OCR Image Dataset and Outputs
+# Homework 2
 
-This repository contains several images and their corresponding OCR outputs.
+This repository contains images, their cleaned versions, and an already cleaned version
 
 ## Images
 
