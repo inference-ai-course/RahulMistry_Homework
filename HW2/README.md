@@ -2,6 +2,10 @@
 
 This repository contains images, their cleaned versions, and an already cleaned version
 
+`tesseract image.png output`
+`tesseract image2.png output2`
+`tesseract cleaned.png output_cleaned`
+
 ## Images
 
 ### Cleaned Image
