@@ -37,7 +37,7 @@ This repository contains code and audio files for a speech-to-speech chatbot pip
 
 ---
 
-## ⚙ Usage
+##  Usage
 
 ### 1. Run the server
 ```bash
