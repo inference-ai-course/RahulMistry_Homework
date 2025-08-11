@@ -2,7 +2,7 @@
 
 This repository contains code and audio files for a speech-to-speech chatbot pipeline using:
 
-Link to the video: https://drive.google.com/drive/u/0/home
+Link to the video: https://drive.google.com/file/d/1dJcdAoxDNNiODV7VF-67NyIPjQMQCl_K/view?usp=sharing
 
 - **Whisper ASR** — Converts spoken audio into text.
 - **LLM** — Generates context-aware responses.
