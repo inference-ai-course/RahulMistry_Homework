@@ -1,4 +1,4 @@
-#Retrieval Report
+# Retrieval Report
 
 ## Query: What are recent advances in machine translation?
 **Result 1:**
