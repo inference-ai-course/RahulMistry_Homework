@@ -1,0 +1,38 @@
+# # requirements.txt
+
+# numpy
+# pandas
+# scikit-learn
+
+# # For embeddings (preferred)
+# sentence-transformers
+
+# # For API
+# fastapi
+# uvicorn
+
+# # For optional keyword scoring (BM25 alternative)
+# rank-bm25
+
+# # For saving/loading sklearn fallback index
+# joblib
+
+# # Optional utilities
+# python-dotenv
+
+# # FAISS (if available on your platform)
+# faiss-cpu
+
+numpy
+pandas
+scikit-learn
+faiss-cpu       # optional but recommended; fallback uses sklearn NN if FAISS absent
+fastapi
+uvicorn
+feedparser
+pymupdf
+requests
+rank-bm25
+joblib
+PyPDF2          # if you added the PDF fallback I suggested
+python-dotenv   # optional
